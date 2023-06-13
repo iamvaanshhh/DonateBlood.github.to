@@ -1,0 +1,86 @@
+body{
+    background-color: rgb(31, 30, 30);  
+    color: white;
+    width: 80%;
+    margin: auto;
+
+}
+h1{
+    color: yellow;
+}
+
+.overview{
+
+    border-left: 5px red solid;
+
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.Wbd{
+
+    border-left: 5px red solid;
+
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.Apheresis{
+
+    border-left: 5px red solid;
+
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.Risk{
+
+    border-left: 5px red solid;
+
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.ER{
+
+    border-left: 5px red solid;
+
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.FM{
+
+    border-left: 5px red solid;
+
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.register{
+
+    border-left: 5px red solid;
+    border-right: 5px red solid;
+    border-top: 5px red solid;
+    border-bottom: 5px red solid;
+
+
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    color: aqua;
+}
